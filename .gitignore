@@ -13,5 +13,15 @@ src/dist/
 
 docs/demo-files
 
+# Executable file 
+*.exe
+
+# File log, temp
+*.log
+*.tmp
+*.bak
+*.zip
+
+
 
 
