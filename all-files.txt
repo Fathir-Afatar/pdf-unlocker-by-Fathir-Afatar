@@ -1,0 +1,160 @@
+3bdcddd82c3e13ea2b16125ff5399b6be844670a
+83f1c1b74aea71ba417053321cdbf535a3cb3903
+903940307e4f47b754377a3248677c319e5d01f6
+c437b69fdb6e9c6194caa719f9aad4ebb8a0363a
+cc89e894261d48d2ecd7ae56737a7f5f80170470
+e8ebb44cc6c25fdec718bfdb1f4b57b86d5dfc93
+15ba5a3804118453d6f4202465580a4707a36f0b 
+27c6839d6dce6647bb41e0c14173a18bc50e1fbd 
+2a4a49c17ce69ac5b3b63ed674e96c99be9ac57f 
+7091fa1ceb8e8a0fa232409ed37102c13f651615 
+85d54cf2375a5b941c4f22305d06fe6ad5f80b02 
+ef6c0977c6a4b08dc97d8088a60c8bdef896a761 
+0dde229bef77bd5e5997d9ec8f74164b50a10d4b .gitignore
+eb71c36c8ea062b3260646e5217cc15789588095 .gitignore
+a27a3eb498d67e1c4b2923debd98b7b95b740453 CHANGELOG.md
+257800bd9e6364bb9638462d9787fbd2720c3942 LICENSE
+2c2eb2f8b754aff1bd386af48a6637735ff36f6c README.md
+9928b72de3e1b15d5b252958b093c8d50372d0fa README.md
+e7044864df8b3ecefd393a20f4e5826bd109a6d0 README.md
+8b5abaf1bfbd5c90327da1c802cd4bb0a74c8c97 docs
+c5b129c8613c524e8588ef93553230b95b12d647 docs
+80d156886350b26cae39fc4ab589e042cba85b38 docs/Images
+850c058b2482e8dc5d10f6bf0bc900c865c5412a docs/Images/License.png
+ce9d921fed726ad05a84ac604e242fc4cfda751f docs/Images/Pilih Folder PDF.png
+c28671ce0dc288b63de3c8dd22bd664541f44581 docs/Images/Processing.png
+c0d436a73cf5385cb06253d5fead9262d32bf406 docs/Images/Proses Selesai.png
+b3fae05faeb7a6b068ffadea61f9ab1490e27980 docs/Images/Splash Screen.png
+b268a204fd6f8a329ae8b3737eb9fd1b3bf715bd docs/Images/pilih notepad password.png
+5b872845bc75efedd56063f64cb664feacd10624 docs/demo-files
+a0c7c01eb14803d189e3549459425bcb35ea722d docs/demo-files
+152e30d64823f046e4e9adf7fb9dcd7e6083ef30 docs/demo-files/50-locked-pdf-samples (1)
+66450b5ff601b68e96f9b2cb89b8776e07f4fc82 docs/demo-files/50-locked-pdf-samples (1)
+dfe6798f5cfedb3da8717e96f55918f12fec6f07 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (1).pdf
+e7c0a6bf9a0479bdba4ed6c46e942495db34dfcc docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (10).pdf
+4ea963f4e4104085a748963215f62c3915deba9a docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (11).pdf
+a524ae731f65abc4198a6c588e4898226446a89e docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (12).pdf
+5a6729e535e834b19ac5b57f55fa774896b3bad3 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (13).pdf
+771e198ef9824dae80321db4fd401eb52828efcd docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (14).pdf
+3497eeab69af5ddaed6a3a753553fe143fd492b1 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (15).pdf
+5b6f749d3ce78cd75aaff354bf40ab376aaa9bcb docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (16).pdf
+d0a2874e083511e504137daf8f6343ea4db3c8c6 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (17).pdf
+11d6d5d80c8014128c3966b76d030a3e331b2dc2 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (18).pdf
+d4764dfd629d4e22fd531b6d86371f5472ca475c docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (19).pdf
+73525d6e47c04cfbf2953d6666ecc82e2871db05 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (2).pdf
+ea6ce6c49ab89ef9cf5cfc6f2f7f699687c83edc docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (20).pdf
+40f09a13bbd9fe3b559faf5472969e825f4f0301 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (21).pdf
+2ceb8ab7216c79017c67350fec2ddaa88ac47027 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (22).pdf
+053010f93c0ad7f7c61c232be2a16c54e45ce94c docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (23).pdf
+c0bf2bc1ef9d4882469ba114e0b157871074f100 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (24).pdf
+0c6d19380f2a2dfe23674c821ad689b55a2b4fc3 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (25).pdf
+ea1ec35f5478ec697423cb1bebaf9d29586d360d docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (26).pdf
+ac2e2fec0dd3b565f2616a4e38174775600bee09 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (27).pdf
+7f514ce82c1290bb5deb16380d8dccb013ec62af docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (28).pdf
+dd91bcb03efd869f59c441384f43fcd99cfe9268 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (29).pdf
+43137cfd70fdd0788efeec67dc6b17943a76ba28 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (3).pdf
+b6d72dc6fd0c43da535857fab43326491d3d806d docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (30).pdf
+73466c0692cbcf0f3e314507f8cfef92bcf8e2f4 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (31).pdf
+d74f5ab27657346d6644e3fe59329c4d2e2bdb41 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (32).pdf
+b1b1dc351b079d0b702162f3632fcfae9ab2c899 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (33).pdf
+1793e16de883cb4ea2c97cb3025f4c9ceb664f1a docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (34).pdf
+66c51640d5ff0457cf3789d5cd15e961ad7b8c80 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (35).pdf
+b24abfe5708849ae9268c8d1f4f4fdc84dbc2d1f docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (36).pdf
+fe6d5d9a8bfa2ab57fdf4f1aac0bc6a4cbd33f6e docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (37).pdf
+025733aa21662dc663c5b0c50b5870a0f565c38c docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (38).pdf
+0706b06990ab14453e79430e9c823095230abd3e docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (39).pdf
+312d5c9e7b85d07e196ef33bd94889862b28814c docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (4).pdf
+267be9ba00bc79c961314db8ae1087a92c3b0f4a docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (40).pdf
+bde51ee8148dd558de782d3176431dbec5acf949 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (41).pdf
+cdf6a575a0f30cfd011b64ea8c6042698545b754 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (42).pdf
+866db66cec29f65c2155886cf0945936f3bea2b6 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (43).pdf
+1020522c2d68537d150fb5c3232e406e404c0f81 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (44).pdf
+781100ab54f32d046a3807a3d22069ce0357d831 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (45).pdf
+6aaf0dfe21fa1d7c17fbbe0ce2c2603b77acb9c1 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (46).pdf
+d9c2a7031001e35f6a982e386d50df63b66f8126 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (47).pdf
+6377596a1e099417304afdf68eb5adf55cc569cd docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (48).pdf
+75b95d2e43ff3e4852f5bf0220db8e9d368b3129 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (49).pdf
+6f4bb82fdd179d38a22801d472a9dd4b0ecc2554 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (5).pdf
+23476074df3464d7625caee79c4ad1e4525a290b docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (50).pdf
+cbfa36568cc67224dce919d642497f19dd3f441a docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (6).pdf
+789cde22fb8df877aa7de3ec568057772563d65c docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (7).pdf
+1e12017bf0c257aaf5f7b241f73697229fc6d4a0 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (8).pdf
+6248a544b25705ea4bf612e12ee870a077326a67 docs/demo-files/50-locked-pdf-samples (1)/Doc 1 - Copy (9).pdf
+38c59ce8d14d0f757c10375c8eb7c0cb66944d6e docs/demo-files/50-locked-pdf-samples (1)/demo_01.pdf
+3ed17d1b06df27462d24fb677810987644259bb6 docs/demo-files/50-locked-pdf-samples (1)/demo_02.pdf
+a8b24fb4f69953bd7b99746d1871d8584ce0b788 docs/demo-files/50-locked-pdf-samples (1)/demo_03.pdf
+cb5766687957db6b8e0a2a3b9d42a42fded01173 docs/demo-files/50-locked-pdf-samples (1)/demo_04.pdf
+8bbf3bcf7c6f6da8aa16f6d78a7ec498e11838d2 docs/demo-files/50-locked-pdf-samples (1)/demo_05.pdf
+358d8ec41d45f145aeee41a1f6bf48be29fc92b4 docs/demo-files/50-locked-pdf-samples (1)/demo_06.pdf
+4daf7e5ffa1258a27d155fbde50dd89b3f703bf6 docs/demo-files/50-locked-pdf-samples (1)/demo_07.pdf
+e14010170649ca544771030fd30e57318c7ff47d docs/demo-files/50-locked-pdf-samples (1)/demo_08.pdf
+e6e4e4ab0434f2f7793f86e53057c627228a20e7 docs/demo-files/50-locked-pdf-samples (1)/demo_09.pdf
+4eabeaeafd4784b9aa4e5ccd6c3eda83bc7d3c4e docs/demo-files/50-locked-pdf-samples (1)/demo_10.pdf
+9dddec7e778864e8100ec5743752507653c65f71 docs/demo-files/50-locked-pdf-samples (1)/demo_11.pdf
+4f546a75cef225b655da25a35debcee6d4b50098 docs/demo-files/50-locked-pdf-samples (1)/demo_12.pdf
+853e00f3bbc2301e9fad632f75e9c125feb399ed docs/demo-files/50-locked-pdf-samples (1)/demo_13.pdf
+7492b48e68965d8815c92fd62621ca7ff14c5041 docs/demo-files/50-locked-pdf-samples (1)/demo_14.pdf
+bc9711538f8cd1c7ddba3c93b2f34938a66748d8 docs/demo-files/50-locked-pdf-samples (1)/demo_15.pdf
+b47e860a553049ae0cdbaca22d818e2a7e0af6b7 docs/demo-files/50-locked-pdf-samples (1)/demo_16.pdf
+290b6cc3089f8d1a3ad886d2ccee2a5ebec098c1 docs/demo-files/50-locked-pdf-samples (1)/demo_17.pdf
+f1ca8cb2dffb97fcd7e2c544b5d0296a3e632503 docs/demo-files/50-locked-pdf-samples (1)/demo_18.pdf
+667d031fe01a4f6caef485ca315714b67668b50c docs/demo-files/50-locked-pdf-samples (1)/demo_19.pdf
+b7ecbcef5643ec75aa1f1f3ead45275fe42ebd17 docs/demo-files/50-locked-pdf-samples (1)/demo_20.pdf
+578d90fe802cce5bbf591903266aa883bb436b6d docs/demo-files/50-locked-pdf-samples (1)/demo_21.pdf
+aa7ce7512c67152d8cba9cd932e3a82b58e18779 docs/demo-files/50-locked-pdf-samples (1)/demo_22.pdf
+6baa777961161643d0782fd2a9da02eb3ed64e60 docs/demo-files/50-locked-pdf-samples (1)/demo_23.pdf
+3181cbe09bac95f5ca29f5f05974e76a5f6b17bb docs/demo-files/50-locked-pdf-samples (1)/demo_24.pdf
+bfd094d01b838cd4c07a41ad801a9fdb2887c547 docs/demo-files/50-locked-pdf-samples (1)/demo_25.pdf
+68cd3de80074675210cc8a2f34d69b915dfd2b48 docs/demo-files/50-locked-pdf-samples (1)/demo_26.pdf
+8c46d892801df7e4a56813f69403b5ffdb06f209 docs/demo-files/50-locked-pdf-samples (1)/demo_27.pdf
+fd0d0be1d3097d0e896df54b2bd2bf5c3553452e docs/demo-files/50-locked-pdf-samples (1)/demo_28.pdf
+281b7f1853fc9e3962b3474dbe98a418cde037f0 docs/demo-files/50-locked-pdf-samples (1)/demo_29.pdf
+c328164ea45309ad4ac34e8898ebbdd91b3fc0c7 docs/demo-files/50-locked-pdf-samples (1)/demo_30.pdf
+e0e0c6a2b3b527d7cfd2c3f3e9cd3e68746a87fe docs/demo-files/50-locked-pdf-samples (1)/demo_31.pdf
+f0a7bd67301d9033cd1f77a964b3c8e9b00c5a1a docs/demo-files/50-locked-pdf-samples (1)/demo_32.pdf
+2a31a1f056630c1d5c16a307e38c7adafc2d00f4 docs/demo-files/50-locked-pdf-samples (1)/demo_33.pdf
+776a0fe102e9f596b7e1a9e093e65750b7ff29a2 docs/demo-files/50-locked-pdf-samples (1)/demo_34.pdf
+4e2378fcd5dc2fadb9501a80eef899c787ede0dc docs/demo-files/50-locked-pdf-samples (1)/demo_35.pdf
+2dd2c522293bc0e997930098a64c3d20b05775c3 docs/demo-files/50-locked-pdf-samples (1)/demo_36.pdf
+10806e862295d2e81d49a0f43eab80199304da23 docs/demo-files/50-locked-pdf-samples (1)/demo_37.pdf
+d02f42f41d9885ce83d36a0933c5ec9e778b3663 docs/demo-files/50-locked-pdf-samples (1)/demo_38.pdf
+0f193f844de12cc86db50f271b7aee1ce4cb8d09 docs/demo-files/50-locked-pdf-samples (1)/demo_39.pdf
+30117a8048a64ed37be5ff32cb95441156b20470 docs/demo-files/50-locked-pdf-samples (1)/demo_40.pdf
+3717d1d50e9f1c70c48b873800f11762726c25e9 docs/demo-files/50-locked-pdf-samples (1)/demo_41.pdf
+82e3c9d4882f1b06c156053e6719a0947806bf1e docs/demo-files/50-locked-pdf-samples (1)/demo_42.pdf
+47a6d490cb87d18aa7c9f232be497e68f3b77005 docs/demo-files/50-locked-pdf-samples (1)/demo_43.pdf
+a80ef7654a4d3305efea7a6251ef30b388209008 docs/demo-files/50-locked-pdf-samples (1)/demo_44.pdf
+131aa35be9d4f9691c5f75fe0a40a9eb473e4d5d docs/demo-files/50-locked-pdf-samples (1)/demo_45.pdf
+d6587792b60a7c3c05ab56efea751684cfc20f35 docs/demo-files/50-locked-pdf-samples (1)/demo_46.pdf
+e417e4e72d1580568f9cc07c7d08afbc61807abe docs/demo-files/50-locked-pdf-samples (1)/demo_47.pdf
+328e949860357c035d7c5604ee981b70590d5b72 docs/demo-files/50-locked-pdf-samples (1)/demo_48.pdf
+3692d8de2b7d45bc9d3e384e45cc4712e44dc611 docs/demo-files/50-locked-pdf-samples (1)/demo_49.pdf
+cf8854a3d47d59fac1c16455b70618158afb5c45 docs/demo-files/50-locked-pdf-samples (1)/demo_50.pdf
+04f5f30b16b1fa04b7fa2d66ace904f3c4404e41 docs/demo-files/Sample-Passwords.txt
+f4a03b6eb4ebda2179c0799c3bb89809065e2d06 docs/demo-files/Sample_Password (1).txt
+3760eeb0b2ead9221fb005e6f5ea9cc29127a690 docs/demo-files/readme-demo-notes.txt
+ece2af20bdcc37f53df5d200a7520548c154106e docs/installation.md
+86478427b58900ab8ce0688c0bfa92723352daea docs/usage.md
+cfb5bccb5996100069df9472ae664fc0985e9dc8 requirements.txt
+d52989f3a7960c464a9d77afdd66645e98b70b93 src
+d9b3654326cda90b3db816621f254a710e7e4412 src/build
+668bd8934400469e9107bb916a6cb4c31064dc0a src/build/pdf_unlocker_gui
+8d95a843898ea2fc12ba2c16882c88eaadd58f76 src/build/pdf_unlocker_gui/Analysis-00.toc
+8996121a968b1fa5b92534900da82d8a46a55c98 src/build/pdf_unlocker_gui/EXE-00.toc
+a0a24054ac0021d02d032f742a79a2959cc76519 src/build/pdf_unlocker_gui/PKG-00.toc
+393eeaac1519c3eee759cbc61171b95357218a70 src/build/pdf_unlocker_gui/PYZ-00.pyz
+bcb52823d113986b48aa204135021d408cd1d65c src/build/pdf_unlocker_gui/PYZ-00.toc
+77895b4407952fc193b7ff89f9025d56bc7bbeb1 src/build/pdf_unlocker_gui/base_library.zip
+6fc66bc6bd9d4dc52cf6566c93ed2235a97e95ce src/build/pdf_unlocker_gui/localpycs
+d338813dddb3263e1ae97ab3b3a428a9c348aedf src/build/pdf_unlocker_gui/localpycs/pyimod01_archive.pyc
+67f6b1b1f41367174159be8e0ffbc7827e73f577 src/build/pdf_unlocker_gui/localpycs/pyimod02_importers.pyc
+1997e5aba22c0feca1d4a3ade64ccadddac66983 src/build/pdf_unlocker_gui/localpycs/pyimod03_ctypes.pyc
+cab1f6a6daf3c8cea77e4074a5673a8b336e8558 src/build/pdf_unlocker_gui/localpycs/pyimod04_pywin32.pyc
+bfcba936900c8936b5fd9b55114ea897524de967 src/build/pdf_unlocker_gui/localpycs/struct.pyc
+cb5831d5c1ffcbd091307c9492ebeed838d397d7 src/build/pdf_unlocker_gui/pdf_unlocker_gui.pkg
+f4e49de31854122fbd986d26dbfa17a7d07062e9 src/build/pdf_unlocker_gui/warn-pdf_unlocker_gui.txt
+314579ab355c0947ff11033999daff6a9f5cb0ee src/build/pdf_unlocker_gui/xref-pdf_unlocker_gui.html
+f3b612904547977398266b10a4d857879ee07f22 src/dist
+b9f2b3c49c992b38528f68a8bf9c954661e50d6f src/dist/pdf_unlocker_gui.exe
+a4b48b30d5d2628466fd958337e2b2ddf886b3d4 src/pdf_unlocker_gui.py
+0293d51c2d3fd5feaf95bf404797485316ba11c1 src/pdf_unlocker_gui.spec

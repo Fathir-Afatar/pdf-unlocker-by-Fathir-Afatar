@@ -1,0 +1,17 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+src/build/
+src/dist/
+
+*.pdf
+
+docs/demo-files
+
+
+
