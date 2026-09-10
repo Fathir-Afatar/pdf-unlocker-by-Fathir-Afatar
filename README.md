@@ -1,4 +1,4 @@
-# PDF Unlocker
+# PDF Unlocker by Fathir Afatar
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
