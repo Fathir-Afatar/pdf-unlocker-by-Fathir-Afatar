@@ -161,7 +161,7 @@ Format : [Version] - Date
 - MIT license information included in the project
 
 ## 📄 License
-This project is open-source and available under the [MIT License](./License). You are free to use, modify, and distribute it, provided proper credit is given original author: Fathir Afatar.
+This project is open-source and available under the [MIT License](./LICENSE). You are free to use, modify, and distribute it, provided proper credit is given original author: Fathir Afatar.
 
 ## Contributing & Contact
 
