@@ -105,15 +105,15 @@ This step using the v.2.0 version.
 ---
 
 4. Click the **"Start Process"** button.
-![Proses](docs/images/v.2.0/Process.png)
+![Proses](docs/Images/v.2.0/Process.png)
 
 ---
 
 5. If successful, there is a new folder opened `unlocked_pdfs `and the PDF file will be saved again without the password.
-![Hasil](docs/images/v.2.0/Test100_result.png)
+![Hasil](docs/Images/v.2.0/Test100_result.png)
 > *Success dialog and also the stats*
 
-![Folder](docs/images/v.2.0/Folder_Result.png)
+![Folder](docs/Images/v.2.0/Folder_Result.png)
 > *A new folder will open, and all the successfully opened PDFs will be inside it.*
 
 ---
