@@ -49,6 +49,11 @@ Processing password-protected PDFs manually vs. automated batch unlocking:
 - **Privacy-First:** Operates 100% offline—your documents and passwords never leave your machine.
 
 ---
+## How Does it Work
+
+![Process](docs/Images/v.2.0/Process_Diagram.png)
+
+---
 
 ## ⚠️ Important Disclaimer & Legal Use
 
